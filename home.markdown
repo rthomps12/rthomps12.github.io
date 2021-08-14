@@ -2,7 +2,7 @@
 layout: home
 title: Our research project
 description: Towards developing a theme for research project websites
-background: /images/group_summer2021.png
+background: /images/group_summer2021_header.png
 permalink: /
 ---
 
