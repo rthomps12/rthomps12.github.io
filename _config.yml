@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Surface science, self-assembly and spectroscopy @ St. Edward's University in Austin, TX
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @_the_interface
+twitter_username: _the_interface
 github_username:  rthomps12
 
 # Build settings
