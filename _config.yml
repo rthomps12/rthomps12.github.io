@@ -20,6 +20,7 @@
 
 title: Thompson Lab
 email: your-email@example.com
+header: images/group_summer2021.png
 description: >- # this means to ignore newlines until "baseurl:"
   Surface science, self-assembly and spectroscopy @ St. Edward's University in Austin, TX
 baseurl: "" # the subpath of your site, e.g. /blog
