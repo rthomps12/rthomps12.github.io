@@ -33,6 +33,7 @@ github_username:  rthomps12
 remote_theme: peterdesmet.github.io/petridish
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
