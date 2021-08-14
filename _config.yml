@@ -29,7 +29,8 @@ twitter_username: _the_interface
 github_username:  rthomps12
 
 # Build settings
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: peterdesmet.github.io/petridish
 plugins:
   - jekyll-feed
 
