@@ -30,7 +30,7 @@ github_username:  rthomps12
 
 # Build settings
 #theme: jekyll-theme-cayman
-remote_theme: peterdesmet.github.io/petridish
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
