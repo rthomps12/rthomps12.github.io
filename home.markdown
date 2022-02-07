@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Our research project
-description: Towards developing a theme for research project websites
-background: /images/group_summer2021_header.png
+title: Thompson Group
+description: surface science, self-assembly, and spectroscopy at St. Edward's University in Austin, TX
+background: /images/austin_skyline.png
 permalink: /
 ---
 
