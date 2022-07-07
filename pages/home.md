@@ -2,7 +2,7 @@
 layout: home
 title: Thompson Research Group
 description: Self-assembly and spectroscopy at St. Edward's University in Austin, TX 
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: /assets/theme/images/austin_skyline_cropped.png
 permalink: /
 ---
 
