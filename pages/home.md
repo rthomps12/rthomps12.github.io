@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Thompson Research Group
-description: Uses an easy to customize theme for its website
+description: Self-assembly and spectroscopy at St. Edward's University in Austin, TX 
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
