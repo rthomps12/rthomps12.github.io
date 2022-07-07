@@ -1,32 +1,15 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# SITE SETTINGS
+title: Petridish                        # Title in top navigation bar (navbar) and <head>
+description: Jekyll theme for research project websites # Site description in <head>
+author: Peter Desmet                    # Used for copyright statement in footer
+baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
-title: Thompson Lab
-email: rthomps7@stedwards.edu
-header: images/group_summer2021.png
-description: >- # this means to ignore newlines until "baseurl:"
-  Surface science, self-assembly and spectroscopy @ St. Edward's University in Austin, TX
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _the_interface
-github_username:  rthomps12
+# SOCIAL PROFILES
+email: your.email@example.com           # Social icon in footer
+twitter_username: peterdesmet           # Social icon in footer
+github_username: peterdesmet            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
@@ -40,28 +23,31 @@ font_serif: true                        # Font type for page content: serif (def
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 logo: /assets/theme/images/petri-dish_1f9eb.png # Logo in navbar, will be displayed with 30px height
 
-# Build settings
-remote_theme: peterdesmet/petridish
-plugins:
+# BUILD SETTINGS
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - petridish.gemspec
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# FRONTMATTER DEFAULTS
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
