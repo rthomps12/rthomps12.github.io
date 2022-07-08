@@ -1,7 +1,27 @@
 # Project team members listed below will appear on the /team page
 
-- name: Alyssa Havens
-  role: Summer 2022 - 
-  image: 
+member:
+- name: Avery Schimpf
+  role: Summer 2020 - Spring 2022
+  image: /assets/theme/images/avery_schimpf.jpg
   description: >
-    SAMs as biomedical sensors, PM-IRRAS expert
+    Operations Technician at Electroninks in Austin, TX. Hoping to work for a few years before applying to graduate school
+    for a PhD in Chemistry.
+
+- name: Jade Casasent
+  role: Summer 2020 - Spring 2022
+  image: /assets/theme/images/algie.png
+  description: >
+    Coming Soon
+
+- name: Van Do
+  role: Fall 2020 - Spring 2022 
+  image: /assets/theme/images/sly.png
+  description: >
+    PhD student in Chemistry at the University of Chicago.
+
+- name: Luis Rivera
+  role: Spring 2022 
+  image: /assets/theme/images/sly.png
+  description: >
+    Coming Soon

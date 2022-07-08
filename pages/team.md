@@ -1,8 +1,6 @@
 ---
 layout: team
 title: Team
-description: Meet the Group
+description: Meet the Thompson Group
 permalink: /team/
 ---
-
-## Current Students
