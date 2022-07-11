@@ -9,10 +9,39 @@ remark: See also page.layout == 'home' in head.html and header.html
   {% assign twitter_feed = true %}
 {% endif %}
 
+
 <div class="row">
   <div class="{% if twitter_feed %}col{% else %}col-md-10 col-lg-8 mx-auto{% endif %}">
     <div class="row">
       <div class="col">
+
+        <h4>
+        <div style="text-align: center"> 
+          <ul class="list-inline">
+              <li class="list-inline-item">
+                <i class="fas fa-atom fa-lg"></i></a>
+              </li>
+              <li class="list-inline-item">
+                Physical Chemistry
+              </li>
+              <li class="list-inline-item">
+                <i class="fas fa-virus fa-lg"></i></a>
+              </li>
+              <li class="list-inline-item">
+                Biotechnology
+              </li>
+              <li class="list-inline-item">
+                <i class="fas fa-line-columns fa-lg"></i></a>
+              </li>
+              <li class="list-inline-item">
+                Interfaces
+              </li>
+              <li class="list-inline-item">
+                <i class="fas fa-microscope fa-lg"></i></a>
+              </li>
+          </ul>
+        </div>
+        </h4>
 
         {{ content }}
 
@@ -38,3 +67,5 @@ remark: See also page.layout == 'home' in head.html and header.html
       </div>
     {% endif %}
 </div>
+
+
