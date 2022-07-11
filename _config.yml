@@ -30,7 +30,7 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
-#  - node_modules
+  - node_modules
   - LICENSE
   - package-lock.json
   - package.json
