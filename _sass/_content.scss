@@ -105,4 +105,7 @@
 
   // Style tables
   // This is done by replacing '<table' with '<table class="table"' in {{ content }}
+  .table-fixed {
+    table-layout: fixed;
+  }
 }
