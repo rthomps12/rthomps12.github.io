@@ -1,0 +1,19 @@
+# Advisor details below will be displayed on the "advisor" page layout
+
+member:
+- name: Rebecca Thompson
+  role: 
+  image: /assets/theme/images/Thompson_headshot.png
+  description: > # Can be Markdown
+    Becca is originally from Evanston, IL, just north of Chicago. 
+    She earned her B.A. in Chemistry from Amherst College in 2012 and then worked for two years at a healthcare software company in Madison, WI. 
+    In 2014 she moved to back to Chicago to begin her Ph.D. at The University of Chicago working with [Professor Steven Sibener](http://sibener-group.uchicago.edu/). 
+    Her graduate research focused on the interaction between gases and solid interfaces, with applications ranging from astrophysical ice 
+    formation to the destruction of chemical warfare agents. After receiving her doctorate in early 2020, she joined the faculty at 
+    St. Edward's University in Austin, TX as an assistant professor. 
+  orcid: 0000-0002-3750-1576
+  researchgate: Rebecca-Thompson-57
+  twitter: _the_interface
+  linkedin: rebecca-thompson-seu
+  email: rthomps7@stedwards.edu
+  faculty_profile: rebecca-s-thompson

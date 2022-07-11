@@ -41,31 +41,31 @@ description: Template for team page
             <ul class="list-inline">
               {% if member.orcid %}
                 <li class="list-inline-item">
-                  <a href="https://orcid.org/{{ member.orcid }}"><i class="ai ai-orcid"></i></a>
+                  <a href="https://orcid.org/{{ member.orcid }}"><i class="fab fa-orcid fa-lg"></i></a>
                 </li>
               {% endif %}
       
               {% if member.researchgate %}
                 <li class="list-inline-item">
-                  <a href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="ai ai-researchgate"></i></a>
+                  <a href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="fab fa-researchgate fa-lg"></i></a>
                 </li>
               {% endif %}
       
               {% if member.twitter %}
                 <li class="list-inline-item">
-                  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter"></i></a>
+                  <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter fa-lg"></i></a>
                 </li>
               {% endif %}
       
-              {% if member.github %}
+              {% if member.linkedin %}
                 <li class="list-inline-item">
-                  <a href="https://github.com/{{ member.github }}"><i class="fab fa-github"></i></a>
+                  <a href="https://www.linkedin.com/in/{{ member.linkedin }}"><i class="fab fa-linkedin fa-lg"></i></a>
                 </li>
               {% endif %}
       
               {% if member.email %}
                 <li class="list-inline-item">
-                  <a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
+                  <a href="mailto:{{ member.email }}"><i class="far fa-envelope fa-lg"></i></a>
                 </li>
               {% endif %}
             </ul>

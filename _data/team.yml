@@ -3,13 +3,13 @@
 member:
 - name: Alyssa Havens
   role: Summer 2022 - 
-  image: 
+  image: /assets/theme/images/sly.png
   description: >
     SAMs as biomedical sensors, PM-IRRAS expert
 
 - name: Emily El-Shaer
   role: Summer 2022 - 
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: /assets/theme/images/algie.png
   description: >
     SAMs as biomedical sensors, exploring pH and environmental conditions
 
@@ -21,35 +21,31 @@ member:
 
 - name: Ivan Mounteer
   role: Summer 2022 - 
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: /assets/theme/images/sly.png
   description: >
     BPMEN and Cu(II) attachment to hydroxyl terminated SAMs
 
 - name: Renee Escobedo
   role: Summer 2022 - 
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: /assets/theme/images/algie.png
   description: >
     BPMEN and Cu(II) attachment to hydroxyl terminated SAMs
 
 - name: Agnes Mefful
   role: Summer 2022 - 
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: /assets/theme/images/sly.png
   description: >
     TBD
 
 - name: John Godino
   role: Summer 2022 - 
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: /assets/theme/images/algie.png
   description: >
     TBD
+  orcid:
+  researchgate: 
+  twitter: 
+  linkedin:
+  email: 
 
-- name: Example Entry
-  role: Delivery boy # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
-  description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_name
-  twitter: twitter_name
-  github: github_name
-  email: your.email@example.com
+

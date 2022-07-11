@@ -1,25 +1,13 @@
 ---
 title: Dr. Thompson
+layout: advisor
 background: /assets/theme/images/enchanted_rock_scenery_cropped.png
 permalink: /dr_thompson/
 ---
 
-![Dr. Thompson](/assets/theme/images/Thompson_headshot.png)
+## Recent Work
 
-$$V_{sphere} = \frac{4}{3}\pi r^3$$
-
-{: .alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md).
-
-This is a default page. See [configuration]({{ '/configuration/' | relative_url }}) to learn more about **pages**.
-
-To remove this page, you need to:
-
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
-
-## Some gibberish
-
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
-
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+- Shebaro, B.; DeMuynck, J. P.; Hauser, C. R.; Holgado, A.; **Thompson, R. S.**; Walter, P. J. Closing the gap: building internship programs for career readiness. Journal of Computing Sciences in Colleges 2022, 37, 40-47.
+- Brann, M. R.; **Thompson, R. S.**; Sibener, S. J. Reaction Kinetics and Influence of Film Morphology on the Oxidation of Propene Thin Films by O($$^3$$P) Atomic Oxygen. J. Phys. Chem. C **2020**, 124, 7205–7215.
+- **Thompson, R. S.**; Brann, M. R.; Sibener S. J. Sticking Probability of High-Energy Methane on Crystalline, Amorphous, and Porous-Amorphous Ice Films. J. Phys. Chem. C **2019**, 123, 17855-17863.
+- **Thompson, R. S.**; Brann, M. R.; Purdy, E. H.; Graham, J. D.; McMillan, A. A.; Sibener S. J. Rapid Laser- Induced Temperature Jump Decomposition of the Nerve Agent Simulant Diisopropyl Methylphosphonate under Atmospheric Conditions. J. Phys. Chem. C **2019**, 123, 21564-21570.

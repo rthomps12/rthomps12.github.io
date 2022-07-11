@@ -1,0 +1,63 @@
+---
+layout: default
+description: Template for research advisor
+---
+
+{% assign member = site.data.advisor.member[0] %}
+
+  <div class="d-flex team-member">
+    <div class="me-3">
+      {% if member.image %}
+        <img src="{{ member.image | relative_url }}">
+      {% endif %}
+    </div>
+    <div>
+      <h4 id="{{ member.name | strip | url_encode }}">
+        {{ member.name }}
+      </h4>
+
+      <div style="text-align: justify"> 
+      {{ member.description | markdownify }}
+      </div>
+
+      <ul class="list-inline">
+        {% if member.orcid %}
+          <li class="list-inline-item">
+            <a href="https://orcid.org/{{ member.orcid }}"><i class="fab fa-orcid fa-2x"></i></a>
+          </li>
+        {% endif %}
+
+        {% if member.researchgate %}
+          <li class="list-inline-item">
+            <a href="https://researchgate.net/profile/{{ member.researchgate }}"><i class="fab fa-researchgate fa-2x"></i></a>
+          </li>
+        {% endif %}
+
+        {% if member.twitter %}
+          <li class="list-inline-item">
+            <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter fa-2x"></i></a>
+          </li>
+        {% endif %}
+
+        {% if member.linkedin %}
+          <li class="list-inline-item">
+            <a href="https://www.linkedin.com/in/{{ member.linkedin }}"><i class="fab fa-linkedin fa-2x"></i></a>
+          </li>
+        {% endif %}
+
+        {% if member.email %}
+          <li class="list-inline-item">
+            <a href="mailto:{{ member.email }}"><i class="far fa-envelope fa-2x"></i></a>
+          </li>
+        {% endif %}
+
+        {% if member.faculty_profile %}
+          <li class="list-inline-item">
+            <a href="https://www.stedwards.edu/directory/employees/{{ member.faculty_profile }}"><i class="fas fa-address-card fa-2x"></i></a>
+          </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+
+{{ content }}
