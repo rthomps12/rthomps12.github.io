@@ -10,12 +10,12 @@ description: Template for team page
 </header>
 
 {% assign length = site.data.team.member | size %}
-{% assign rows = length | divided_by: 3 %}
+{% assign rows = length | divided_by: 2 | minus: 1 %}
 
 <table>
     {% for i in (0..rows) %}
-    {% assign start = i | times: 3 %}
-    {% assign end = start | plus: 2 %}
+    {% assign start = i | times: 2 %}
+    {% assign end = start | plus: 1 %}
     <tr>
       {% for j in (start..end) %}
       <td>
@@ -83,12 +83,12 @@ description: Template for team page
 </header>
 
 {% assign length = site.data.former_team.member | size %}
-{% assign rows = length | divided_by: 3 %}
+{% assign rows = length | divided_by: 2 | minus: 1 %}
 
 <table>
     {% for i in (0..rows) %}
-    {% assign start = i | times: 3 %}
-    {% assign end = start | plus: 2 %}
+    {% assign start = i | times: 2 %}
+    {% assign end = start | plus: 1 %}
     <tr>
       {% for j in (start..end) %}
       <td>

@@ -4,6 +4,10 @@
 # This frontmatter ensures Jekyll reads this file and converts it to main.css
 ---
 
+table {
+  table-layout: fixed;
+}
+
 // Set customizable colors
 //
 // Set default colors
