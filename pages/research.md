@@ -5,4 +5,6 @@ background: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=Mn
 permalink: /research/
 ---
 
-### Research in the Thompson group focuses on the impact of molecular-level defects on the functionality of 
+#### Research in the Thompson group focuses on the impact of molecular-level defects on the functionality of biomedical sensors and other nano-scale devices. 
+
+
