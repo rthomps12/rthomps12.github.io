@@ -15,6 +15,8 @@ source "https://rubygems.org"
 # gem "jekyll-remote-theme"
 gem "github-pages", "~> 217", group: :jekyll_plugins
 # If you have any plugins, put them here!
+gem 'jemoji'
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
