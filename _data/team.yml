@@ -7,12 +7,6 @@ member:
   description: >
     SAMs as biomedical sensors, PM-IRRAS expert
 
-- name: Emily El-Shaer
-  role: Summer 2022 - 
-  image: /assets/theme/images/algie.png
-  description: >
-    SAMs as biomedical sensors, exploring pH and environmental conditions
-
 - name: Lili Garcia
   role: Summer 2022 - 
   image: /assets/theme/images/lili_garcia.jpeg
@@ -33,15 +27,15 @@ member:
 
 - name: Agnes Mefful
   role: Summer 2022 - 
-  image: /assets/theme/images/sly.png
+  image: /assets/theme/images/algie.png
   description: >
-    TBD
+    Au substrate cleanliness and contamination, contact angle expert
 
 - name: John Godino
   role: Summer 2022 - 
-  image: /assets/theme/images/algie.png
+  image: /assets/theme/images/John_Godino_headshot.jpg
   description: >
-    TBD
+    SAMs as biomedical sensors, PM-IRRAS expert
   orcid:
   researchgate: 
   twitter: 

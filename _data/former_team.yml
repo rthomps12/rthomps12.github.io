@@ -16,7 +16,7 @@ member:
 
 - name: Van Do
   role: Fall 2020 - Spring 2022 
-  image: /assets/theme/images/sly.png
+  image: /assets/theme/images/Van_Do_headshot.jpeg
   description: >
     PhD student in Chemistry at the University of Chicago.
 
@@ -25,3 +25,9 @@ member:
   image: /assets/theme/images/algie.png
   description: >
     Coming Soon
+
+- name: Emily El-Shaer
+  role: Summer 2022
+  image: /assets/theme/images/algie.png
+  description: >
+    Coming soon
