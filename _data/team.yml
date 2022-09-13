@@ -2,37 +2,37 @@
 
 member:
 - name: Alyssa Havens
-  role: Summer 2022 - 
-  image: /assets/theme/images/sly.png
+  role: Summer 2022 - present
+  image: /assets/theme/images/Alyssa_Havens_headshot.jpeg
   description: >
     SAMs as biomedical sensors, PM-IRRAS expert
 
 - name: Lili Garcia
-  role: Summer 2022 - 
+  role: Summer 2022 - present
   image: /assets/theme/images/lili_garcia.jpeg
   description: >
     SAMs as biomedical sensors, QCM expert
 
 - name: Ivan Mounteer
-  role: Summer 2022 - 
+  role: Summer 2022 - present 
   image: /assets/theme/images/sly.png
   description: >
-    BPMEN and Cu(II) attachment to hydroxyl terminated SAMs. 
+    Cu(II) attachment to carboxylic acid terminated SAMs. 
 
 - name: Renee Escobedo
   role: Summer 2022 - 
   image: /assets/theme/images/algie.png
   description: >
-    BPMEN and Cu(II) attachment to hydroxyl terminated SAMs
+    Cu(II) attachment to carboxylic acid terminated SAMs. 
 
 - name: Agnes Mefful
-  role: Summer 2022 - 
-  image: /assets/theme/images/algie.png
+  role: Fall 2021 - present
+  image: /assets/theme/images/Agnes_Mefful_headshot.jpeg
   description: >
     Au substrate cleanliness and contamination, contact angle expert
 
 - name: John Godino
-  role: Summer 2022 - 
+  role: Fall 2021 - present
   image: /assets/theme/images/John_Godino_headshot.jpg
   description: >
     SAMs as biomedical sensors, PM-IRRAS expert
