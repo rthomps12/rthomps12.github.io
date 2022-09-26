@@ -3,7 +3,7 @@
 member:
 - name: Rebecca Thompson
   role: 
-  image: /assets/theme/images/Thompson_headshot.png
+  image: assets/theme/images/headshots/Thompson_headshot.png
   description: > # Can be Markdown
     Becca is originally from Evanston, IL, just north of Chicago. 
     She earned her B.A. in Chemistry from Amherst College in 2012 and then worked for two years at a healthcare software company in Madison, WI. 

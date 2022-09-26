@@ -3,20 +3,20 @@
 member:
 - name: Avery Schimpf
   role: Summer 2020 - Spring 2022
-  image: /assets/theme/images/avery_schimpf.jpg
+  image: assets/theme/images/headshots/avery_schimpf.jpg
   description: >
     Operations Technician at Electroninks in Austin, TX. Planning to apply to graduate school
     for a PhD in Chemistry.
 
 - name: Jade Casasent
   role: Summer 2020 - Spring 2022
-  image: /assets/theme/images/Jade_Casasent.jpg
+  image: assets/theme/images/headshots/Jade_Casasent.jpg
   description: >
     Lab Technician at Flowchem near Houston, TX.
 
 - name: Van Do
   role: Fall 2020 - Spring 2022 
-  image: /assets/theme/images/Van_Do_headshot.jpeg
+  image: assets/theme/images/headshots/Van_Do_headshot.jpeg
   description: >
     PhD student in Chemistry at the University of Chicago.
 
