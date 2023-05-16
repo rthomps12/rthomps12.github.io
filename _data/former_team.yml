@@ -1,6 +1,30 @@
 # Project team members listed below will appear on the /team page
 
 member:
+- name: Alyssa Havens
+  role: Summer 2022 - Spring 2023
+  image: assets/theme/images/headshots/Alyssa_Havens_headshot.jpeg
+  description: >
+    Coming Soon
+
+- name: Lili Garcia
+  role: Summer 2022 - Spring 2023
+  image: assets/theme/images/headshots/lili_garcia.jpeg
+  description: >
+    Coming Soon
+
+- name: Agnes Mefful
+  role: Fall 2021 - Fall 2022
+  image: assets/theme/images/headshots/Agnes_Mefful_headshot.jpeg
+  description: >
+    Coming soon
+
+- name: Ivan Mounteer
+  role: Summer 2022 - Fall 2022 
+  image: /assets/theme/images/sly.png
+  description: >
+    Expected graduation Spring, 2023
+
 - name: Avery Schimpf
   role: Summer 2020 - Spring 2022
   image: assets/theme/images/headshots/avery_schimpf.jpg

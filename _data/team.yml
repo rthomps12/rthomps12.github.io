@@ -1,35 +1,25 @@
 # Project team members listed below will appear on the /team page
 
 member:
-- name: Alyssa Havens
-  role: Summer 2022 - present
-  image: assets/theme/images/headshots/Alyssa_Havens_headshot.jpeg
-  description: >
-    SAMs as biomedical sensors, PM-IRRAS expert
 
-- name: Lili Garcia
-  role: Summer 2022 - present
-  image: assets/theme/images/headshots/lili_garcia.jpeg
-  description: >
-    SAMs as biomedical sensors, QCM expert
-
-- name: Ivan Mounteer
-  role: Summer 2022 - present 
-  image: /assets/theme/images/sly.png
-  description: >
-    Cu(II) attachment to carboxylic acid terminated SAMs. 
 
 - name: Renee Escobedo
-  role: Summer 2022 - - present
+  role: Summer 2022 - present
   image: assets/theme/images/headshots/Renee_Escobedo_headshot.JPG
   description: >
-    Cu(II) attachment to carboxylic acid terminated SAMs. 
+    Cu(II) attachment to carboxylic acid terminated SAMs, synthetis and UV-Vis expert
 
-- name: Agnes Mefful
-  role: Fall 2021 - present
-  image: assets/theme/images/headshots/Agnes_Mefful_headshot.jpeg
+- name: Omar Guzman
+  role: Spring 2023 - present
+  image: assets/theme/images/headshots/Renee_Escobedo_headshot.JPG
   description: >
-    Au substrate cleanliness and contamination, contact angle expert
+    Cu(II) attachment to carboxylic acid terminated SAMs, pH expert
+
+- name: Ivan Guzman
+  role: Spring 2023 - present
+  image: assets/theme/images/headshots/Renee_Escobedo_headshot.JPG
+  description: >
+    Cu(II) attachment to carboxylic acid terminated SAMs, CV expert
 
 - name: John Godino
   role: Fall 2021 - present
