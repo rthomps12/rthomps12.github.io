@@ -12,8 +12,12 @@
   href: /team/
 - text: Dr. Thompson
   href: /dr_thompson/
-- text: News
-  href: /news/
+- text: Fun Stuff
+  menu: 
+  - text: News
+    href: /news/
+  - text: Photos
+    href: /fun/
 - text: Teaching
   menu: # Dropdown menu (one level deep only)
   - text: Teaching Tools
