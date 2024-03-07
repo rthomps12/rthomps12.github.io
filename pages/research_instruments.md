@@ -12,13 +12,13 @@ toc: true
 <img src="/assets/theme/images/IRRAS_Top_view.png" width="600">
 </center>
 
-## QCM
+## Contact Angle
 
 <center>
 <img src="/assets/theme/images/contact_angle.png" width="600">
 </center>
 
-## Contact Angle
+## QCM
 
 <center>
 Coming soon! 
