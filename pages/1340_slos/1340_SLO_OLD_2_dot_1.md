@@ -1,17 +1,12 @@
 ---
-title: SLO 1.2 - Shell Model
-description: Describe the subatomic composition and properties of elements
+title: SLO 2.1 - Naming Molecules and Compounds
+description: Describe the general composition and reactivity of matter
 background: 
-permalink: /1340/1.2/
+permalink: /1340/2.1/
 toc: true
 ---
 
 ## :key: Key Concepts and Skills
-* **Coulomb's law**: Describe how Coulomb’s Law is used to assess the amount of attraction or repulsion between two particles.
-* **Shell Model** Use the shell model to describe where electrons reside in an atom including determining the number of electrons in a particular shell for atoms up to period 3.
-* **Core Charge** Use the shell model to determine if electrons are in valence shells and use this to determine core charge for atoms and ions.
-* **Atomic/Ionic Radii**: Evaluate relative atomic/ionic radii of atoms based on core charge, number of shells, number of valence electrons.
-* **Ionization Energy**: Compare atom's relative first and subsequent ionization energies based on core charge, number of shells, number of valence electrons. Explain the relationship between potential energy and ionization energy and its connection to core charge and distance.
 * **Periodic Table Classifications** Use the periodic table to identify elements in the groups alkali metals, alkaline earth metals, halogens, and noble gasses, and to classify elements as metals and non-metals.
 * **Chemical Composition**: Classify substances by formula, name, or microscopic representation as atomic elements, molecular elements (diatomic), molecular (covalent) compounds, or ionic compounds and understand the difference in properties between them.
 * **States of Matter** Draw and/or identify microscopic representations of chemical composition and states of matter (solid, liquid, gas)
@@ -19,13 +14,9 @@ toc: true
 * **Empirical Formula Ionic Compounds**: Determine the empirical formula for ionic compounds based on knowledge of charges of polyatomic ions, and elements with only one known ion.  
 * **Name Compounds**: Determine the name of an ionic or molecular binary compound from the chemical formula, or the formula from the name, and evaluate errors with chemical names.
 
-
 ## :books: Reading
 
 * From the textbook:
-    * 2.7 Finding Patterns: The Periodic Law and the Periodic Table
-    * 9.7 Ions: Electron Configurations, Magnetic Properties, Ionic Radii, and Ionization Energy
-        * Note: we don’t have all the vocabulary yet, so focus on pp 375-378
     * 1.3 Classification of Matter
     * 3.1 Hydrogen, Oxygen, and Water
     * 3.2 Chemical Bonds
@@ -35,14 +26,8 @@ toc: true
     * 3.6 Molecular Compounds: Formulas and Names
     * 3.7 Summary of Inorganic Nomenclature
 * POGIL Activities
-    * CA-4: How Can Data Be Used to Develop a Model for Electrons in Atoms? 
-    * CA-5: How Does the Shell Model Change When New Data is Obtained?
     * CA-B: What Makes a Molecule?
 * Other:
-    * <a href="http://chem.libretexts.org/Under_Construction/Textmaps_and_Wikitexts/MVC%3A_Chem_1406/Chapters/02._Atomic_Structure/2.5%3A_Arrangement_of_Electron_(Shell_Model)" target="_blank">Arrangement of Electrons (Shell Model)</a>
-    * <a href="http://www.vias.org/genchem/atomstruct_12433_05.html" target="_blank">Ionization Energies of Atoms</a>
-    * <a href="http://www.chemguide.co.uk/atoms/properties/atradius.html" target="_blank">Atomic and Ionic Radius</a>
-    * <a href="http://chem.libretexts.org/Core/Inorganic_Chemistry/Descriptive_Chemistry/Periodic_Trends_of_Elemental_Properties/Periodic_Properties_of_the_Elements" target="_blank">Periodic Properties</a>
     * <a href="http://preparatorychemistry.com/Bishop_Atoms_First.htm#Chapter%206" target="_blank">Chapter 6: More on Chemical Compounds (from ***An Introduction to Chemistry***)</a>
     * <a href="https://www.chem1.com/acad/webtext/intro/int-5.html#SEC3" target="_blank">Naming Chemical Substances</a>
     * <a href="http://www.angelo.edu/faculty/kboudrea/general/formulas_nomenclature/Formulas_Nomenclature.htm" target="_blank">Formulas and Nomenclature</a>
@@ -53,45 +38,41 @@ toc: true
 
 ## :paperclip: Important Terms
 
-|  Ionization Energy  |      Shell number (n)      |
-|  Nuclear Charge |    Core Charge    |
-|   Core Electrons   |   Valence Electrons    |
 | Ion                | Polyatomic ion    |
 | Ionic bond         | Solid             |
 | Ionic compound     | Liquid            |
-| Molecular compound    | Gas               |
-| Chemical formula | |
+| Covalent bond      | Gas               |
+| Molecular compound | Matter            |
+| Chemical formula   | Mole              |
+| Binary compound    | Atomic element    |
+|                    | Molecular element |
+
+## :mag: Polyatomic Ions to Know
+
+The following table is taken from Model 5 of CA-B: What Makes a Molecule? Students are expected to know 
+the name, formula, and associated charge of any polyatomic ion that is not crossed out. The crossed-out ions may 
+still show up on assessments, but there would be context available to answer the question (memorization is not 
+necessary).
+
+|                      +1                     |                               -1                              |                             -2                            |                      -3                     |
+|-------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------|
+| NH<sub>4</sub><sup>+</sup> (ammonium)       | OH<sup>-</sup> (hydroxide)                                    | CO<sub>3</sub><sup>2-</sup> (carbonate)                   | PO<sub>4</sub><sup>3-</sup> (phosphate)     |
+| ~~Hg<sub>2</sub><sup>2+</sup> (mercury I)~~ | NO<sub>3</sub><sup>-</sup> (nitrate)                          | SO<sub>4</sub><sup>2-</sup> (sulfate)                     | ~~BO<sub>3</sub><sup>3-</sup> (borate)~~    |
+|                                             | NO<sub>2</sub><sup>-</sup> (nitrite)                          | SO<sub>3</sub><sup>2-</sup> (sulfite)                     | ~~AsO<sub>4</sub><sup>3-</sup> (arsenate)~~ |
+|                                             | ~~ClO<sub>3</sub><sup>-</sup> (chlorate)~~                        | ~~S<sub>2</sub>O<sub>3</sub><sup>2-</sup> (thiosulfate)~~ |                                             |
+|                                             | ~~ClO<sub>4</sub><sup>-</sup> (perchlorate)~~                     | ~~O<sub>2</sub><sup>2-</sup> (peroxide)~~                 |                                             |
+|                                             | CN<sup>-</sup> (cyanide)                                      | ~~CrO<sub>4</sub><sup>2-</sup> (chromate)~~               |                                             |
+|                                             | ~~C<sub>2</sub>H<sub>3</sub>O<sub>2</sub><sup>-</sup> (acetate)~~ | ~~Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup> (dichromate)~~       |                                             |
+|                                             | ~~MnO<sub>4</sub><sup>-</sup> (permanganate)~~                |                                                           |                                             |
+|                                             | ~~HCO<sub>3</sub><sup>-</sup> (bicarbonate)~~                 |                                                           |                                             |
 
 
 ## :memo: Sample Assessment Questions
-![Sample assessment questions for CHEM 1340 OLD SLO 1.2](/assets/theme/images/1340_1_dot_2_Sample.png "1340 SLO 1.2")
-![Sample assessment questions for CHEM 1340 OLD SLO 2.1](/assets/theme/images/1340_2_dot_1_Sample.png "1340 SLO 2.1")
+![Sample assessment questions for CHEM 1340 SLO 2.1](/assets/theme/images/1340_2_dot_1_Sample.png "1340 SLO 2.1")
 
 ## :movie_camera: Dr. Thompson Videos
 
-*  ### Ionization energy and Coulomb's law 
-<iframe
-    width="600"
-    height="338"
-    frameBorder="0"
-    src="https://flip.com/s/964635f09ff0?embed=true"
-    webkitallowfullscreen
-    mozallowfullscreen
-    allowfullscreen
-    allow="microphone; camera; display-capture"></iframe>
-
-* ### Comparing ionization energies
-<iframe
-    width="600"
-    height="338"
-    frameBorder="0"
-    src="https://flip.com/s/c3ddc0b9bea5?embed=true"
-    webkitallowfullscreen
-    mozallowfullscreen
-    allowfullscreen
-    allow="microphone; camera; display-capture"></iframe>
-
-    *  ### Naming Compounds (Parts I and II)
+*  ### Naming Compounds (Parts I and II)
 <iframe
     width="600"
     height="338"
@@ -124,30 +105,20 @@ toc: true
     allow="microphone; camera; display-capture"></iframe>
 
 ## :headphones: External Videos, Tutorials, Simulations
-* <a href="https://science.widener.edu/svb/tutorial/protonscsn7.html" target="_blank">Protons, Electrons, & Neutrons</a>
-* <a href="https://javalab.org/en/structure_of_an_atom_en/" target="_blank">The Structure of an Atom</a>
-    * Can you speculate why the animation shows electrons moving in such a way? 
 * <a href="https://phet.colorado.edu/en/simulations/build-a-molecule" target="_blank">PhET - Build a molecule</a>
 * <a href="https://www.youtube.com/watch?v=mlRhLicNo8Q" target="_blank">Crash Course Chemistry - Naming Molecules</a>
 * <a href="https://www.youtube.com/watch?v=ptAw20kem90" target="_blank">Khan Academy - Naming Ionic Compounds</a>
-    
+
+
 ## :pencil2: Practice Problems
 * From the textbook:
-    * 2.70, 9.71, 9.76, 3.7-9, 3.27, 3.30-32, 3.34-35, 3.38, 3.44, 3.48-49
+    * 3.7-9, 3.27, 3.30-32, 3.34-35, 3.38, 3.44, 3.48-49
 * From other external sources: 
     * <a href="https://preparatorychemistry.com/ionic_nomenclature_Canvas.html" target="_blank">Ionic Names and Formulas</a>
     * <a href="https://science.widener.edu/svb/tutorial/stocknamingcsn7.html" target="_blank">Nomenclature of Simple Compounds</a>
     * <a href="https://science.widener.edu/svb/tutorial/namestoformulascsn7.htm" target="_blank">Names to Formulas</a>
 
 * From Dr. Thompson (links and embedded versions below):
-    * <a href="https://docs.google.com/document/d/e/2PACX-1vTHRl962MtvERo9EJntdybaNPT2SH1CbrVm7hZgJx79JxPwQM14JjKjMKJCGTHMUxel8DYaaUQ_b6-X/pub" target="_blank">Atomic Size and Ionization</a>
-
-<iframe 
-    width="90%"
-    height="500"
-    frameBorder="0"
-    src="https://docs.google.com/document/d/e/2PACX-1vTHRl962MtvERo9EJntdybaNPT2SH1CbrVm7hZgJx79JxPwQM14JjKjMKJCGTHMUxel8DYaaUQ_b6-X/pub?embedded=true"></iframe>
-
     * <a href="https://docs.google.com/document/d/e/2PACX-1vTMc1Sf3DgS5hhm6SXx4XmkWqOjqBlMXCJKCJGltW2hC5vwaBnchYU0Fli9ly5-Wgc0t5hU5rHSX-eR/pub" target="_blank">Nomenclature</a>
 
 <iframe 
