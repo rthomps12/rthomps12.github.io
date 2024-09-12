@@ -2,7 +2,7 @@
 title: SLO 2.1 - Naming Molecules and Compounds
 description: Describe the general composition and reactivity of matter
 background: 
-permalink: /1340/2.1/
+permalink: /1340/OLD2.1/
 toc: true
 ---
 
