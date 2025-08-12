@@ -14,12 +14,12 @@ posts_on_home: 3                        # Show x number of latest posts on homep
 tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 colors:
-  links: "#004d8e"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#004d8e"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6ad5ea"                     # Background color for footer: use color that contrasts well with white
+  links: "#233746"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#e0dad6"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#e4a01b"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-logo: /assets/theme/images/stolaflogo.png # Logo in navbar, will be displayed with 30px height
+logo: /assets/theme/images/stolaflogo.jpg # Logo in navbar, will be displayed with 30px height
 
 # BUILD SETTINGS
 markdown: kramdown
