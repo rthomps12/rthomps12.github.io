@@ -13,7 +13,7 @@ permalink: /
 {: .alert .alert-warning}
 Greatness in science and research can come from anywhere. All students, regardless of experience or background, are 
 welcome in our lab and encouraged to explore. If you are interested in learning more about our research and available opportunities, please 
-[get in touch](mailto:rthomps7@stedwards.edu).
+[get in touch](mailto:thomps77@stolaf.edu).
 
 <img src="/assets/theme/images/Group_Summer2_2021.png" width="70%">
 
