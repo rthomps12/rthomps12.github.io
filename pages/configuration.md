@@ -69,8 +69,8 @@ layout: home
 In `_config.yml` you can now define:
 
 ```yml
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+posts_on_home: 2                        # Show x number of latest posts on homepage, can be 0
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 ```
 
 For easier maintenance, move/rename your `index.md` to `pages/home.md` and set its `permalink` to `/`.

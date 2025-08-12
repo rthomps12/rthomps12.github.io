@@ -13,7 +13,14 @@ source "https://rubygems.org"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "jekyll-remote-theme"
-gem "github-pages", "~> 217", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
+# TODO: Remove when this gets fixed in Jekyll
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+
+gem "liquid", "~> 4.0.4"
+
 # If you have any plugins, put them here!
 gem 'jemoji'
 

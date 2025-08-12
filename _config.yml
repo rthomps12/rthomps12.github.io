@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: Thompson Lab                        # Title in top navigation bar (navbar) and <head>
-description: Self-assembly and spectroscopy at St. Edward's University in Austin, TX # Site description in <head>
+description: Self-assembly and spectroscopy at St. Olaf College in Northfield, MN # Site description in <head>
 author: Becca Thompson                # Used for copyright statement in footer
 baseurl: ""      
 
@@ -11,7 +11,7 @@ github_username: rthomps12            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
+tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 colors:
   links: "#004d8e"                      # Color for links: use a readable color that contrasts well with dark text
@@ -19,7 +19,7 @@ colors:
   footer: "#6ad5ea"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-logo: /assets/theme/images/SEU_Master_Vertical_2-color.png # Logo in navbar, will be displayed with 30px height
+logo: /assets/theme/images/stolaflogo.png # Logo in navbar, will be displayed with 30px height
 
 # BUILD SETTINGS
 markdown: kramdown
