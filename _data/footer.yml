@@ -5,12 +5,10 @@
 columns:
   - description:
     links:
-    - text: St. Edward's University School of Natural Sciences
-      href: https://stedwards.edu/natural-sciences
+    - text: St. Olaf Chemistry
+      href: https://wp.stolaf.edu/chemistry/
       new_window: true
-    - text: i4 Institute for Interdisciplinary Sciences
-      href: https://www.stedwards.edu/i4
-      new_window: true
+
 
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown

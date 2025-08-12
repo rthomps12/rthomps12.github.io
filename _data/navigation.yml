@@ -22,17 +22,15 @@
   menu: # Dropdown menu (one level deep only)
   - text: Teaching Tools
     href: /teaching_tools/
-  - text: St. Edward's Canvas
-    href: https://https://stedwards.instructure.com/
+  - text: St. Olaf Moodle
+    href: https://mdl.stolaf.edu/my/
     new_window: true
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Classes" # Title for block of menu items
-  - text: General Chemistry (1340)
-    href: /1340/
-  - text: Physical Chemistry I (3336)
-    href: /3336/
-  - text: Physical Chemistry II (3337)
-    href: /3337/
-  - text: Physical Chemistry Lab (3136)
-    href: /3136/
+  - text: Introductory Chemistry (122)
+    href: /122/
+  - text: Physical Laboratory (357)
+    href: /357/
+  - text: Physical Chemistry (371)
+    href: /371/
 
